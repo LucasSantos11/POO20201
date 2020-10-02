@@ -1,0 +1,20 @@
+import java.util.Scanner
+
+
+//Criem o pacote, implementem pra funcionar e comentem!
+
+Scanner ler = new Scanner(System.in);
+
+int a = 0;
+System.out.println("Digite um número: ");
+a = ler.nextInt();
+
+int b;
+System.out.println("Digite outro número: ");
+b= = ler.nextInt();
+
+System.out.println("Soma = %d",a+B);
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
